@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Connaction1</string>
+    <string-array name="Nationality">
+        <item>سوريا</item>
+        <item>لبنان</item>
+        <item>الأردن</item>
+    </string-array>
+
 </resources>
